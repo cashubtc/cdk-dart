@@ -1,6 +1,6 @@
 name: cdk
 description: An implementation of the CDK wallet
-version: "0.18.1"
+version: "0.18.0-nightly.20260920.g7f65da9"
 repository: https://github.com/cashubtc/cdk
 homepage: https://github.com/cashubtc
 
